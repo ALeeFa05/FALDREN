@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../styles/estudiante.module.css';
+import styles from '../styles/estudiante.css';
 export default function Demo() {
     return (
         <div>
